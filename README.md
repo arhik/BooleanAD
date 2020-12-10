@@ -1,4 +1,4 @@
-# BooleanAD.jl
+# BooleanAD
 
 - Defined Automatic Differentiation rules for Boolean types.
 - Meant to be used with Flux.jl
