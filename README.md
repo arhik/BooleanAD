@@ -13,3 +13,5 @@ Example potential application:
 - Mask learning.
 - Wide networks with top-k.
 - Graph learning.
+- Boolean Function learning.
+- Electronic component wiring.
