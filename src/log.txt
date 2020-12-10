@@ -1,3 +1,0 @@
-2020/10/18 18:05:38 Micro started
-2020/10/18 18:05:38 gotham-colors is not a plugin
-2020/10/18 18:05:38 monokai-dark is not a plugin
